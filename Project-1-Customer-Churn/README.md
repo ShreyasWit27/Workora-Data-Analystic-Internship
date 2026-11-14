@@ -1,4 +1,4 @@
-# Project 1: Customer Churn Data Cleaning
+# Project 2: Customer Churn Data Cleaning
 
 ## Objective
 To clean and prepare customer data for further analysis.
