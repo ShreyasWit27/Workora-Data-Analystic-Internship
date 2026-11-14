@@ -50,7 +50,7 @@ An interactive dashboard was developed using Streamlit to present the analysis i
 
 ## 🚀 Live Interactive Dashboard
 
-**Dashboard Link:** [[Open Web Traffic Analytics Dashboard]((https://web-traffic-analytics.onrender.com/))]
+**Dashboard Link:** https://web-traffic-analytics.onrender.com/
 
 ## ▶️ Run the Project Locally
 
